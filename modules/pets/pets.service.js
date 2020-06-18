@@ -19,9 +19,13 @@ module.exports = {
     // Return the pets next in line to be adopted.
     const nextCat = pets.cats.show();
     const nextDog = pets.dogs.show();
+    const allCats = pets.cats.all();
+    const allDogs = pets.dogs.all();
     return {
       nextCat,
-      nextDog
+      nextDog,
+      allCats,
+      allDogs
     }
   },
 
