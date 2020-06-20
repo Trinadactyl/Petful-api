@@ -7,10 +7,10 @@ Created by Patrick Nguyen and Trina McLeary.
 Technology Utilized: React, Node, Express
 
 
-Live App: https://dsa-petful-client-i20zse0su.now.sh
+Live App: https://petful-lake.vercel.app/
 
-Client Repo: https://github.com/7eyedhero/DSA-Petful-Client
+Client Repo: https://github.com/Trinadactyl/petful
 
-Server Repo: https://github.com/thinkful-ei-macaw/DSA-Petful-Server-PT
+Server Repo: https://github.com/Trinadactyl/petful-api
 
 
